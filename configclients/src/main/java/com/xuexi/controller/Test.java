@@ -7,4 +7,5 @@ package com.xuexi.controller;
 public class Test {
     private int id;
     private String name;
+    protected int id1;
 }
